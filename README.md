@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>C, Python.</strong>
+  💻 Skills: <strong>C, Python.</strong>
 </p>
 
 <p align="left">
