@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello, my name is Gabriel Bertho and I'm a <strong>Computer Engineering student at UFSCar</strong>.<br>
+  Hello, my name is Gabriel Bertho and I'm a <strong>Computer Engineering student at Federal University of São Carlos(UFSCar) - Brazil.</strong>.<br>
 </p>
 
 <p align="left">
