@@ -30,3 +30,7 @@
   <a href="https://instagram.com/gabrielbertho17/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=www.instagram.com/gabrielbertho17/"/></a>
 </p>  
+
+[![Gabertho's github stats](https://github-readme-stats.vercel.app/api?username=Gabertho)](https://github.com/Gabertho/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabertho)](https://github.com/Gabertho/github-readme-stats)
