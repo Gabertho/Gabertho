@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=www.instagram.com/gabrielbertho17/"/></a>
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Gabertho.Gabertho)
 
 
 
