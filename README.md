@@ -37,6 +37,6 @@
 
 [![Gabertho's github stats](https://github-readme-stats-gabertho.vercel.app/api?username=Gabertho)](https://github.com/Gabertho/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabertho)](https://github.com/Gabertho/github-readme-stats)
+[![Top Langs](https://github-readme-stats-gabertho.vercel.app/api/top-langs/?username=Gabertho)](https://github.com/Gabertho/github-readme-stats)
 
 
