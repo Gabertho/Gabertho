@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  💻 Skills: <strong>C, Python.</strong>
+  💻 Skills: <strong>C, Python, Java.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code.</strong>
+  💼 Tools: <strong>Visual Studio Code, NetBeans.</strong>
 </p>
 
 <p align="left">
