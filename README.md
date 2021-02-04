@@ -31,20 +31,6 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=www.instagram.com/gabrielbertho17/"/></a>
 </p>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  
-  <img allign="left" alt="Gabertho's Github stats" src="https://github-readme-stats.gabertho.vercel.app/api?username=Gabertho&show_icons=true&hide_border=true" />
-  
-</details>
-
-<details>
-  <summary>:zap: Top Languages</summary>
-  
-  <img allign="left" alt="Gabertho's Top Langs" src="https://github-readme-stats.gabertho.vercel.app/api/top-langs/?username=Gabertho&show-icons=true&hide_border=true" />
-  
-  </details>
-
 
 
 
