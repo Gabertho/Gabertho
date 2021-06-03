@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  💻 Skills: <strong>C, Python, Java.</strong>
+  💻 Skills: <strong>C, C++, Python.</strong>
 </p>
 
 <p align="left">
