@@ -13,6 +13,10 @@
 </p>
 
 <p align="left">
+  👨‍💻 Interests: <strong>Data Science and Machine Learning</strong>
+</p>
+
+<p align="left">
   💌 If you want to contact me for any reason: ⤵️
 </p>
 
