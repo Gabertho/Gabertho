@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  👨‍💻 Interests: <strong>Data Science and Machine Learning</strong>
+  👨‍💻 Interests: <strong>Blockchains, Data Science and Machine Learning</strong>
 </p>
 
 <p align="left">
