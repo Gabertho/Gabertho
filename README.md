@@ -9,11 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, NetBeans.</strong>
-</p>
-
-<p align="left">
-  👨‍💻 Interests: <strong>Blockchains, Data Science and Machine Learning</strong>
+  👨‍💻 Interests: <strong>Control Systems, Data Science and AI/Machine Learning/Deep Learning.</strong>
 </p>
 
 <p align="left">
