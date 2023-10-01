@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  👨‍💻 Interests: <strong>Control Systems, Data Science and AI/Machine Learning/Deep Learning.</strong>
+  👨‍💻 Interests: <strong>Control Systems, Adaptive and Robust Control, Guidance, Navigation & Control and AI/Machine Learning/Deep Learning.</strong>
 </p>
 
 <p align="left">
