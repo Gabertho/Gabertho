@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  👨‍💻 Interests: <strong>Control Systems, Adaptive and Robust Control, Guidance, Navigation & Control and AI/Machine Learning/Deep Learning.</strong>
+  👨‍💻 Interests: <strong> Control(Adaptive and Robust), Trajectory-Planning, GNC and AI/Machine Learning/Deep Learning.</strong>
 </p>
 
 <p align="left">
-  💌 If you want to contact me for any reason: ⤵️
+  If you want to contact me for any reason: ⤵️
 </p>
 
 <p align="left">
