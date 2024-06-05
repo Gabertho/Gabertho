@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  👨‍💻 Interests: <strong> Robust Control, Trajectory-Planning, Robotics, Stability, AI (ML and DL), Computer Vision and Data Science.</strong>
+  👨‍💻 Interests: <strong> Robust Control, Path Planning, Robotics, Stability, AI (ML and DL), Computer Vision and Data Science.</strong>
 </p>
 
 <p align="left">
