@@ -1,19 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello, my name is Gabriel Bertho and I'm a <strong>Computer Engineering student at Federal University of São Carlos(UFSCar) - Brazil</strong>.<br>
+  Hello, my name is Gabriel Bertho and I'm a <strong>Computer Engineering student at Federal University of São Carlos(UFSCar) - Brazil </strong>, and a <strong> Researcher Visitor Intern at Linköpings Universitet - Sweden </strong>.<br>
 </p>
 
 <p align="left">
-  💻 Skills: <strong>C, C++, Python, MATLAB.</strong>
+  💻 Skills: <strong>C, C++, Python, MATLAB, ROS.</strong>
 </p>
 
 <p align="left">
-  👨‍💻 Interests: <strong> Control(Adaptive and Robust), Trajectory-Planning, GNC and AI/Machine Learning/Deep Learning.</strong>
+  👨‍💻 Interests: <strong> Robust Control, Trajectory-Planning, Robotics, Stability, AI (ML and DL), Computer Vision and Data Science.</strong>
 </p>
 
 <p align="left">
-  If you want to contact me for any reason: ⤵️
+  If you want to contact me for any reason: 
 </p>
 
 <p align="left">
