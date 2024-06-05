@@ -7,7 +7,7 @@
 <p align="left">
   💻 Skills:
   
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
