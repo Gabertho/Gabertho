@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="/imgs/jet.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Jet Fighter">
 
 <p align="left"> 
   Hello, my name is Gabriel Bertho and I'm a <strong>Computer Engineering student at Federal University of São Carlos(UFSCar) - Brazil </strong> and a <strong> Researcher Visitor Intern at Linköpings Universitet - Sweden </strong>.<br>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  👨‍💻 Interests: <strong> Robust Control, Path Planning, Robotics, Stability, AI (ML and DL), Computer Vision and Data Science.</strong>
+  👨‍💻 Interests: <strong> Robotics, Aircraft Stability and Control, UAVs, Robust Control, AI and Computer Vision.</strong>
 </p>
 
 <p align="left">
