@@ -1,4 +1,4 @@
-<img src="/imgs/jet.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Jet Fighter">
+<img src="/imgs/jet.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Jet Fighter">
 
 <p align="left"> 
   Hello, my name is Gabriel Bertho and I'm a <strong>Computer Engineering student at Federal University of São Carlos(UFSCar) - Brazil </strong> and a <strong> Researcher Visitor Intern at Linköpings Universitet - Sweden </strong>.<br>
