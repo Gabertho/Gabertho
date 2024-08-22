@@ -43,7 +43,7 @@
             <td style="width: 50%; text-align: left; vertical-align: middle;">
                 <a href="https://github.com/Gabertho/Matrice100_dev">Matrice100_dev</a>: 
                 ROS system for Path Planning and Trajectory Following using DJI Matrice 100 UAV.
-                <img src="https://img.shields.io/badge/status-working-yellow" alt="Status Working" style="margin-left: 10px;">
+                <img src="https://img.shields.io/badge/status-under%20review-purple alt="Status Under Review" style="margin-left: 10px;">
             </td>
         </tr>
     </table>
