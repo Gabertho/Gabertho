@@ -31,4 +31,21 @@
 
 
 
+<div align="center" style="padding: 20px;">
+    <h4 align="center">My projects</h4>
+    <table align="center" style="width: 100%; table-layout: fixed;">
+        <tr>
+            <td style="width: 50%; text-align: left; vertical-align: middle;">
+                <a href="https://github.com/Gabertho/PathPursuit">PathPursuit</a>: 
+                A Novel Mobile Application for Robot Autonomous Navigation with ROS and JavaScript.
+                <img src="https://img.shields.io/badge/status-maintenance-orange" alt="Status In Progress" style="margin-left: 10px;">
+            </td>
+            <td style="width: 50%; text-align: left; vertical-align: middle;">
+                <a href="https://github.com/Gabertho/Matrice100_dev">Matrice100_dev</a>: 
+                ROS system for Path Planning and Trajectory Following using DJI Matrice 100 UAV.
+                <img src="https://img.shields.io/badge/status-working-yellow" alt="Status Working" style="margin-left: 10px;">
+            </td>
+        </tr>
+    </table>
+</div>
 
