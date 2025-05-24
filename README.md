@@ -1,4 +1,4 @@
-<img src="/imgs/jet.png" min-width="350spx" max-width="350px" width="350px" align="right" alt="Jet Fighter">
+<img src="/imgs/data_icon.png" min-width="350spx" max-width="350px" width="350px" align="right" alt="Machine Learning Icon">
 
 ### 👋 Hello, I'm Gabriel Bertho
 
