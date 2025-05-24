@@ -54,6 +54,15 @@ More recently, I've been shifting my focus toward how **data, technology, and bu
 ---
 
 #### 📈 AI, Data Analytics & Digital Assurance *(in progress)*
+<table align="center" style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 100%; text-align: left; vertical-align: middle;">
+      <a href="https://github.com/Gabertho/telco-customer-churn">Telco Customer Churn Prediction</a>:  
+      Complete classification project using SMOTE, cross-validation, and multiple ML algorithms (SVM, MLP, Naive Bayes, etc.) to predict telecom customer churn.  
+      <img src="https://img.shields.io/badge/status-complete-brightgreen" alt="Status Complete" style="margin-left: 10px;">
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📫 Let's connect
