@@ -41,12 +41,12 @@ More recently, I've been shifting my focus toward how **data, technology, and bu
     <td style="width: 50%; text-align: left; vertical-align: middle;">
       <a href="https://github.com/Gabertho/PathPursuit">PathPursuit</a>:  
       A mobile app for autonomous robot navigation using ROS and JavaScript.  
-      <img src="https://img.shields.io/badge/status-maintenance-orange" alt="Status Maintenance" style="margin-left: 10px;">
+      <img src="https://img.shields.io/badge/status-complete-brightgreen" alt="Status Maintenance" style="margin-left: 10px;">
     </td>
     <td style="width: 50%; text-align: left; vertical-align: middle;">
       <a href="https://github.com/Gabertho/Matrice100_dev">Matrice100_dev</a>:  
       ROS-based path planning and control framework for the DJI Matrice 100 UAV.  
-      <img src="https://img.shields.io/badge/status-under%20review-purple" alt="Status Under Review" style="margin-left: 10px;">
+      <img src="https://img.shields.io/badge/status-complete-brightgreen" alt="Status Under Review" style="margin-left: 10px;">
     </td>
   </tr>
 </table>
