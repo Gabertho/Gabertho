@@ -65,3 +65,7 @@ If you’d like to collaborate, share ideas, or talk about data, AI or business 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-bertho-3671241a6)
 
 ---
+
+## 📊 GitHub Stats
+
+![Gabertho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabertho&theme=dracula&hide_border=true)
