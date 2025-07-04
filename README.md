@@ -1,72 +1,67 @@
-<img src="/imgs/data_icon.png" min-width="350spx" max-width="350px" width="350px" align="right" alt="Machine Learning Icon">
+<img src="/imgs/data_icon.png" width="300px" align="right" alt="Machine Learning Icon">
 
-### 👋 Hello, I'm Gabriel Bertho
+# 👋 Hi, I'm Gabriel Bertho
 
-I'm a **Computer Engineering student** at the Federal University of São Carlos (UFSCar), Brazil, and a **former Visiting Researcher** at Linköping University, Sweden — where I worked on intelligent control systems for autonomous UAVs.
+I'm a **Computer Engineering student** at the Federal University of São Carlos (UFSCar) and currently working as a **Data Scientist Intern at Visagio**, where I develop data-driven solutions that generate real business value.
 
-Throughout my academic journey, I've been deeply involved in **robotics, embedded systems, and control theory**, developing autonomous navigation and path planning frameworks using ROS and deep learning.
+Previously, I was a **Visiting Researcher** at Linköping University (Sweden), working with **AI-based control systems** for autonomous UAVs. This experience strengthened my passion for solving complex problems through technology, mathematical modeling, and smart algorithms.
 
-More recently, I've been shifting my focus toward how **data, technology, and business processes intersect** — especially in areas like **Digital Assurance, Analytics, Risk, and Intelligent Automation**. I'm passionate about leveraging technology to improve decision-making, transparency, and operational efficiency within organizations.
-
----
-
-### 💻 Technical Skills
-
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg" title="ROS"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/800px-Power_BI_logo.svg.png" title="Power BI"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/512px-Sql_data_base_with_logo.svg.png" title="SQL"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1024px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" title="Excel"></code>
+> My main focus today is on the intersection between **Data Science, Artificial Intelligence, and Business Strategy** — using advanced analytics to support better decisions and drive innovation.
 
 ---
 
-### 🎯 Interests
+## 💻 Technical Skills
 
-- AI (Machine Learning, Deep Learning, Reinforcement Learning)
-- Business Process Analysis and IT Risk
-- Digital Assurance, Controls Testing, and Audit Automation
-- Data Analytics & Visualization (Power BI, Python, SQL)
-- Intelligent Automation for Corporate Decision Making
-
----
-### 📊 Featured Projects
-
-#### 🤖 Robotics & Control
-
-<table align="center" style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td style="width: 50%; text-align: left; vertical-align: middle;">
-      <a href="https://github.com/Gabertho/PathPursuit">PathPursuit</a>:  
-      A mobile app for autonomous robot navigation using ROS and JavaScript.  
-      <img src="https://img.shields.io/badge/status-complete-brightgreen" alt="Status Maintenance" style="margin-left: 10px;">
-    </td>
-    <td style="width: 50%; text-align: left; vertical-align: middle;">
-      <a href="https://github.com/Gabertho/Matrice100_dev">Matrice100_dev</a>:  
-      ROS-based path planning and control framework for the DJI Matrice 100 UAV.  
-      <img src="https://img.shields.io/badge/status-complete-brightgreen" alt="Status Under Review" style="margin-left: 10px;">
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" title="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40" title="C"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" title="C++"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg" width="40" title="ROS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" title="MATLAB"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" width="40" title="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" title="SQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/587px-Microsoft_Excel_2013-2019_logo.svg.png" width="40" title="Excel"/>
+</div>
 
 ---
 
-#### 📈 AI, Data Analytics & Digital Assurance *(in progress)*
-<table align="center" style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td style="width: 100%; text-align: left; vertical-align: middle;">
-      <a href="https://github.com/Gabertho/telco-customer-churn">Telco Customer Churn Prediction</a>:  
-      Complete classification project using SMOTE, cross-validation, and multiple ML algorithms (SVM, MLP, Naive Bayes, etc.) to predict telecom customer churn.  
-      <img src="https://img.shields.io/badge/status-complete-brightgreen" alt="Status Complete" style="margin-left: 10px;">
-    </td>
-  </tr>
-</table>
+## 🚀 Areas of Interest
+
+- **Data Science & Business Intelligence**
+- **Machine Learning, Deep Learning & Generative AI**
+- **Predictive Modeling & Decision Support**
+- **Data Engineering & Visualization**
+- **Strategy, Analytics & Technology in Business Contexts**
+
 ---
 
-### 📫 Let's connect
+## 📈 Featured Projects
 
-If you’d like to collaborate or chat about data, analytics, risk, or business tech — feel free to reach out:
+### 🧠 Data Science & AI Projects
+
+- [**Telco Customer Churn Prediction**](https://github.com/Gabertho/telco-customer-churn)  
+  Classification pipeline with SMOTE, cross-validation, and ML models (SVM, MLP, Naive Bayes) to predict customer churn.  
+
+- [**Market Basket Analysis**](https://github.com/Gabertho/market-basket-analysis)  
+  Frequent Itemset Mining and Decision Tree applied to the Online Retail II dataset to discover purchase patterns and generate actionable business insights using Apriori algorithm and classification techniques.  
+
+
+---
+
+### 🤖 Robotics & Embedded Systems
+
+- [**PathPursuit**](https://github.com/Gabertho/PathPursuit)  
+  Mobile app for autonomous robot navigation using ROS and JavaScript.  
+
+- [**Matrice100_dev**](https://github.com/Gabertho/Matrice100_dev)  
+  ROS-based path planning and adaptive control framework for DJI Matrice 100 UAVs.  
+
+---
+
+## 🌐 Let's Connect
+
+If you’d like to collaborate, share ideas, or talk about data, AI or business applications of technology, feel free to connect:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-bertho-3671241a6)
+
+---
