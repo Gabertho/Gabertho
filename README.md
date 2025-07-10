@@ -6,7 +6,7 @@ I'm a **Computer Engineering student** at the Federal University of São Carlos 
 
 Previously, I was a **Visiting Researcher** at Linköping University (Sweden), working with **AI-based control systems** for autonomous UAVs. This experience strengthened my passion for solving complex problems through technology, mathematical modeling, and smart algorithms.
 
-> My main focus today is on the intersection between **Data Science, Artificial Intelligence, and Business Strategy** — using advanced analytics to support better decisions and drive innovation.
+ My main focus today is on the intersection between **Data Science, Artificial Intelligence, and Business Strategy** — using advanced analytics to support better decisions and drive innovation.
 
 ---
 
