@@ -1,4 +1,4 @@
-<img src="/imgs/data_icon.png" width="300px" align="right" alt="Machine Learning Icon">
+<img src="/imgs/me.png" width="300px" align="right" alt="Gabriel Cartoon">
 
 # 👋 Hi, I'm Gabriel Bertho
 
