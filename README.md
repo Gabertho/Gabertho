@@ -1,7 +1,7 @@
 <table>
-<tr>
-<td style="width: 100%;">
-  
+  <tr>
+    <td style="width: 60%; vertical-align: top;">
+
 <h1>👋 Hi, I'm Gabriel Bertho</h1>
 
 I'm a <strong>Computer Engineering student</strong> at the Federal University of São Carlos (UFSCar) and currently working as a <strong>Data Scientist Intern at Visagio</strong>, where I develop data-driven solutions that generate real business value.  
@@ -11,8 +11,8 @@ Previously, I was a <strong>Visiting Researcher</strong> at Linköping Universit
 My main focus today is on the intersection between <strong>Data Science, Artificial Intelligence, and Business Strategy</strong> — using advanced analytics to support better decisions and drive innovation.
 
 </td>
-<td>
-  <img src="/imgs/me.png" height="180px" alt="Gabriel Cartoon">
+<td style="width: 40%; text-align: center;">
+  <img src="/imgs/me.png" alt="Gabriel Cartoon" style="max-width: 100%; min-width: 200px;">
 </td>
 </tr>
 </table>
