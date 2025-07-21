@@ -1,4 +1,4 @@
-<img src="/imgs/me.png" width="300px" align="right" alt="Gabriel Cartoon">
+<img src="/imgs/me.png" width="200px" align="right" alt="Gabriel Cartoon">
 
 # 👋 Hi, I'm Gabriel Bertho
 
