@@ -1,7 +1,7 @@
 <table>
-  <tr>
-    <td>
-
+<tr>
+<td style="width: 100%;">
+  
 <h1>👋 Hi, I'm Gabriel Bertho</h1>
 
 I'm a <strong>Computer Engineering student</strong> at the Federal University of São Carlos (UFSCar) and currently working as a <strong>Data Scientist Intern at Visagio</strong>, where I develop data-driven solutions that generate real business value.  
@@ -12,11 +12,10 @@ My main focus today is on the intersection between <strong>Data Science, Artific
 
 </td>
 <td>
-  <img src="/imgs/me.png" width="150px" alt="Gabriel Cartoon">
+  <img src="/imgs/me.png" height="180px" alt="Gabriel Cartoon">
 </td>
 </tr>
 </table>
-
 
 ---
 
