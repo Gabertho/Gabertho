@@ -1,23 +1,20 @@
-<table border="0">
-  <tr>
-    <td style="min-width:300px; max-width:500px; vertical-align: top;">
-
-<h1>👋 Hi, I'm Gabriel Bertho</h1>
-
-<p align="justify">
-I'm a <strong>Computer Engineering student</strong> at the Federal University of São Carlos (UFSCar) and currently working as a <strong>Data Scientist Intern at Visagio</strong>, where I develop data-driven solutions that generate real business value.  
-<br><br>
-Previously, I was a <strong>Visiting Researcher</strong> at Linköping University (Sweden), working with <strong>AI-based control systems</strong> for autonomous UAVs. This experience strengthened my passion for solving complex problems through technology, mathematical modeling, and smart algorithms.  
-<br><br>
-My main focus today is on the intersection between <strong>Data Science, Artificial Intelligence, and Business Strategy</strong> — using advanced analytics to support better decisions and drive innovation.
+<p align="center">
+  <img src="/imgs/me.png" width="220px" alt="Gabriel Cartoon">
 </p>
 
-</td>
-<td style="text-align: center; vertical-align: middle;">
-  <img src="/imgs/me.png" alt="Gabriel Cartoon" width="250px">
-</td>
-</tr>
-</table>
+<h1 align="center">👋 Hi, I'm Gabriel Bertho</h1>
+
+<p align="center">
+I'm a <strong>Computer Engineering student</strong> at the Federal University of São Carlos (UFSCar) and currently working as a <strong>Data Scientist Intern at Visagio</strong>, where I develop data-driven solutions that generate real business value.  
+</p>
+
+<p align="center">
+Previously, I was a <strong>Visiting Researcher</strong> at Linköping University (Sweden), working with <strong>AI-based control systems</strong> for autonomous UAVs. This experience strengthened my passion for solving complex problems through technology, mathematical modeling, and smart algorithms.  
+</p>
+
+<p align="center">
+My main focus today is on the intersection between <strong>Data Science, Artificial Intelligence, and Business Strategy</strong> — using advanced analytics to support better decisions and drive innovation.
+</p>
 
 ---
 
