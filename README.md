@@ -1,6 +1,5 @@
-<div style="float: right; margin-left: 20px; width: 200px;">
-  <img src="/imgs/me.png" width="100%" alt="Gabriel Cartoon">
-</div>
+<img src="/imgs/me.png" width="100px" align="right" alt="Gabriel Cartoon">
+
 # 👋 Hi, I'm Gabriel Bertho
 
 I'm a **Computer Engineering student** at the Federal University of São Carlos (UFSCar) and currently working as a **Data Scientist Intern at Visagio**, where I develop data-driven solutions that generate real business value.
