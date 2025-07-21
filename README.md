@@ -1,20 +1,12 @@
-<p align="center">
-  <img src="/imgs/me.png" width="220px" alt="Gabriel Cartoon">
-</p>
+<img src="/imgs/me.png" width="300px" align="right" alt="Gabriel Cartoon">
 
-<h1 align="center">👋 Hi, I'm Gabriel Bertho</h1>
+# 👋 Hi, I'm Gabriel Bertho
 
-<p align="center">
-I'm a <strong>Computer Engineering student</strong> at the Federal University of São Carlos (UFSCar) and currently working as a <strong>Data Scientist Intern at Visagio</strong>, where I develop data-driven solutions that generate real business value.  
-</p>
+I'm a **Computer Engineering student** at the Federal University of São Carlos (UFSCar) and currently working as a **Data Scientist Intern at Visagio**, where I develop data-driven solutions that generate real business value.
 
-<p align="center">
-Previously, I was a <strong>Visiting Researcher</strong> at Linköping University (Sweden), working with <strong>AI-based control systems</strong> for autonomous UAVs. This experience strengthened my passion for solving complex problems through technology, mathematical modeling, and smart algorithms.  
-</p>
+Previously, I was a **Visiting Researcher** at Linköping University (Sweden), working with **AI-based control systems** for autonomous UAVs. This experience strengthened my passion for solving complex problems through technology, mathematical modeling, and smart algorithms.
 
-<p align="center">
-My main focus today is on the intersection between <strong>Data Science, Artificial Intelligence, and Business Strategy</strong> — using advanced analytics to support better decisions and drive innovation.
-</p>
+ My main focus today is on the intersection between **Data Science, Artificial Intelligence, and Business Strategy** — using advanced analytics to support better decisions and drive innovation.
 
 ---
 
@@ -52,6 +44,7 @@ My main focus today is on the intersection between <strong>Data Science, Artific
 
 - [**Market Basket Analysis**](https://github.com/Gabertho/market-basket-analysis)  
   Frequent Itemset Mining and Decision Tree applied to the Online Retail II dataset to discover purchase patterns and generate actionable business insights using Apriori algorithm and classification techniques.  
+
 
 ---
 
