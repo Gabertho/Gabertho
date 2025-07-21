@@ -1,20 +1,22 @@
 <table border="0">
   <tr>
-    <td style="width: 65%;">
+    <td style="min-width:300px; max-width:500px; vertical-align: top;">
 
 <h1>👋 Hi, I'm Gabriel Bertho</h1>
 
+<p align="justify">
 I'm a <strong>Computer Engineering student</strong> at the Federal University of São Carlos (UFSCar) and currently working as a <strong>Data Scientist Intern at Visagio</strong>, where I develop data-driven solutions that generate real business value.  
-
+<br><br>
 Previously, I was a <strong>Visiting Researcher</strong> at Linköping University (Sweden), working with <strong>AI-based control systems</strong> for autonomous UAVs. This experience strengthened my passion for solving complex problems through technology, mathematical modeling, and smart algorithms.  
-
+<br><br>
 My main focus today is on the intersection between <strong>Data Science, Artificial Intelligence, and Business Strategy</strong> — using advanced analytics to support better decisions and drive innovation.
+</p>
 
 </td>
-<td style="width: 35%; text-align: center;">
-  <img src="/imgs/me.png" alt="Gabriel Cartoon" width="220px">
+<td style="text-align: center; vertical-align: middle;">
+  <img src="/imgs/me.png" alt="Gabriel Cartoon" width="250px">
 </td>
-  </tr>
+</tr>
 </table>
 
 ---
