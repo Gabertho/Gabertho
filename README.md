@@ -1,5 +1,5 @@
 <div style="float: right; margin-left: 20px; width: 200px;">
-  <img src="/imgs/me.png" width="200px" align="right" alt="Gabriel Cartoon">
+  <img src="/imgs/me.png" width="100%" alt="Gabriel Cartoon">
 </div>
 # 👋 Hi, I'm Gabriel Bertho
 
