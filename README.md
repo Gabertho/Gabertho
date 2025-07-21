@@ -1,26 +1,21 @@
-<table>
+<table style="border: none;">
   <tr>
-    <td width="240px" valign="top">
-      <p align="center">
-        <img src="/imgs/me.png" width="220px" alt="Gabriel Cartoon">
-      </p>
+    <td style="vertical-align: middle; padding-right: 20px;">
+      <img src="/imgs/me.png" width="220px" alt="Gabriel Cartoon">
     </td>
-    <td valign="top">
-      <h1>👋 Hi, I'm Gabriel Bertho</h1>
-      <p>
-        I'm a <strong>Computer Engineering student</strong> at the Federal University of São Carlos (UFSCar) and currently working as a <strong>Data Scientist Intern at Visagio</strong>, where I develop data-driven solutions that generate real business value.
-      </p>
-      <p>
-        Previously, I was a <strong>Visiting Researcher</strong> at Linköping University (Sweden), working with <strong>AI-based control systems</strong> for autonomous UAVs. This experience strengthened my passion for solving complex problems through technology, mathematical modeling, and smart algorithms.
-      </p>
-      <p>
-        My main focus today is on the intersection between <strong>Data Science, Artificial Intelligence, and Business Strategy</strong> — using advanced analytics to support better decisions and drive innovation.
-      </p>
-    </td>
+    <td style="vertical-align: middle;">
+
+### 👋 Hi, I'm Gabriel Bertho
+
+I'm a **Computer Engineering student** at the Federal University of São Carlos (UFSCar) and currently working as a **Data Scientist Intern at Visagio**, where I develop data-driven solutions that generate real business value.
+
+Previously, I was a **Visiting Researcher** at Linköping University (Sweden), working with **AI-based control systems** for autonomous UAVs. This experience strengthened my passion for solving complex problems through technology, mathematical modeling, and smart algorithms.
+
+My main focus today is on the intersection between **Data Science, Artificial Intelligence, and Business Strategy** — using advanced analytics to support better decisions and drive innovation.
+
+</td>
   </tr>
 </table>
-
----
 
 ---
 
