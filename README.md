@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="/imgs/me.png" width="160px" alt="Gabriel Cartoon" style="float: left; margin-right: 20px; margin-bottom: 10px;" />
-</p>
+<img src="/imgs/me.png" width="160px" align="left" style="margin-right: 20px; margin-bottom: 10px;" alt="Gabriel Cartoon">
 
 ### 👋 Hi, I'm Gabriel Bertho
 
