@@ -8,7 +8,7 @@
     <td valign="top">
       <h1>👋 Hi, I'm Gabriel Bertho</h1>
       <p>
-        I'm a <strong>Computer Engineering student</strong> at the Federal University of São Carlos (UFSCar) and currently working as a <strong>Data Scientist Intern at Visagio</strong>, where I develop data-driven solutions that generate real business value.
+        I'm a <strong>Computer Engineering student</strong> at the Federal University of São Carlos (UFSCar).
       </p>
       <p>
         Previously, I was a <strong>Visiting Researcher</strong> at Linköping University (Sweden), working with <strong>AI-based control systems</strong> for autonomous UAVs. This experience strengthened my passion for solving complex problems through technology, mathematical modeling, and smart algorithms.
