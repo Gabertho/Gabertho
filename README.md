@@ -8,7 +8,6 @@
         <h2>Hi, I'm Gabriel Bertho</h2>
         I hold a <strong>B.Sc. in Computer Engineering</strong> from the
         <strong>Federal University of São Carlos (UFSCar), Brazil</strong>.
-        My focus is on building <strong>AI</strong> for real-world decision-making.
         <br/><br/>
         I previously worked as a <strong>Visiting Researcher</strong> at Linköping University (Sweden), developing
         <strong>AI-based control systems</strong> for autonomous UAVs. That experience reinforced my interest in
