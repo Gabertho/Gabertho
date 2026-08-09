@@ -16,58 +16,13 @@
         Today, I work as an <strong>AI Engineer</strong> at <strong>VLS Legal Capital</strong>, at the intersection of
         <strong>Machine Learning</strong>, <strong>NLP / Document AI</strong>, <strong>Advanced RAG</strong>, and <strong>Business</strong>.
         <br/><br/>
-        <strong>Core themes:</strong> Document AI &amp; NLP • RAG • Applied ML • Analytics for Business
+        <strong>Core themes:</strong> Agentic AI • Document AI &amp; NLP • RAG 
       </div>
     </td>
   </tr>
 </table>
 
 <br/>
-
----
-
-
-## Technical Skills
-
-**Languages & Data**
-<br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" title="SQL"/>
-
-**ML / Data Stack**
-<br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>
-
-**Engineering & Tools**
-<br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" title="Azure"/>
-
-**Robotics**
-<br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40" title="ROS / ROS 2"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" title="MATLAB"/>
-
-**BI / Analytics**
-<br/>
-<img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" width="40" title="Power BI"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" title="Excel"/>
-
----
-
-## Areas of Interest
-- **Machine Learning & Applied AI Engineering**
-- **NLP / Document AI (OCR, extraction, classification)**
-- **Retrieval, RAG, reranking, evaluation**
-- **Business analytics, decision support, and strategy**
-- **Robotics perception & autonomy (ROS2)**
 
 ---
 
